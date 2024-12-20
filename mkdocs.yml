@@ -1,0 +1,78 @@
+# [Обязательное] Название сайта
+site_name: CloudCompare course
+
+# Базовый адрес сайта
+site_url: https://belan1709.github.io/cloud-compare-course
+
+# Описание сайта. Добавляется в meta в html-заголовке каждой страницы.
+site_description: Course about point cloud proccessing soft CloudCompare
+
+# Автор (или авторы) сайта. Добавляется в html-заголовок каждой страницы.
+site_author: Tikhonov Dmitry
+
+# Ссылка на репозиторий, в котором хранятся исходные материалы.
+repo_url: 'https://github.com/Belan1709/cloud-compare-course'
+
+# Относительный путь, который в сочетании со ссылкой на репозиторий (repo_url)
+# и относительным адресом страницы даст адрес, по которому можно вызвать
+# редактор страницы. Для repo_url-ов известных площадок (например,
+# GitHub или GitLab можно оставить пустым - он подставится автоматически)
+edit_uri: ""
+
+# Информация о теме, которая будет применена для сгенерированного сайта.
+# И её параметрах
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: default
+    primary: white
+    accent: green
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+
+# Структура навигации генерируемого сайта.
+nav:
+  - Introduction: index.md
+  - Lessons:
+    - Lesson 1: ex1/Lesson1.md
+    - Lesson 2: ex2/Basic operations.md
+    - Lesson 3: ex3/ex3.md
+    - Lesson 4: ex4/Point Classification and Mesh Creation.md
+    - Lesson 5: ex5/Practical Applications.md
+  - Authors: /about/authors.html
+
+# extra_css:
+#     - css/extra.css
+
+# Список подключённых расширений для препроцессора языка Markdown
+markdown_extensions:
+  - tables
+  - markdown.extensions.admonition
+  - footnotes
+  - md_in_html
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.toc:
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
+  - admonition
+  - pymdownx.details
+
+# copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>.
+
+# Список использованных плагинов MkDocs
+plugins:
+  - search:
+      lang:
+        - en
+  - minify:
+      minify_html: true
+
+  # - redirects:
+  #     redirect_maps:
+  #         user-guide/plugins.md: dev-guide/plugins.md
+  #         user-guide/custom-themes.md: dev-guide/themes.md
+  #         user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
