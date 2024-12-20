@@ -2,7 +2,7 @@
 
 ![The article #1](images_introduction/logo.png)
 
-Welcome to **Mastering CloudCompare for 3D Point Cloud Analysis, a comprehensive course designed to help professionals and enthusiasts unlock the full potential of CloudCompare—a powerful open-source software for processing and analyzing 3D point cloud data.
+Welcome to **Mastering CloudCompare for 3D Point Cloud Analysis**, a comprehensive course designed to help professionals and enthusiasts unlock the full potential of CloudCompare—a powerful open-source software for processing and analyzing 3D point cloud data.
 CloudCompare is widely used across diverse industries to manage, visualize, analyze, and edit complex 3D datasets. Whether you’re working with LiDAR scans, photogrammetry outputs, or any other 3D survey data, this course will empower you to leverage CloudCompare effectively for your specific needs.
 ## Who Is This Course For?
 This course is tailored for individuals and professionals who work with 3D point clouds, meshes, and related data, including:
