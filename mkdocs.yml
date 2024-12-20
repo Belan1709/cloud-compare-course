@@ -2,7 +2,7 @@
 site_name: CloudCompare course
 
 # Базовый адрес сайта
-site_url: https://belan1709.github.io/cloud-compare-course
+site_url: https://belan1709.github.io/cloud-compare-course/site/
 
 # Описание сайта. Добавляется в meta в html-заголовке каждой страницы.
 site_description: Course about point cloud proccessing soft CloudCompare

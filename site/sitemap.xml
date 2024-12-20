@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/about/License%20Agreement/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/about/License%20Agreement/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/about/contacts/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/about/contacts/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/ex1/Lesson1/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/ex1/Lesson1/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/ex2/Basic%20operations/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/ex2/Basic%20operations/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/ex3/ex3/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/ex3/ex3/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/ex4/Point%20Classification%20and%20Mesh%20Creation/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/ex4/Point%20Classification%20and%20Mesh%20Creation/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/ex5/Practical%20Applications/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
     <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/ex5/Practical%20Applications/</loc>
-         <lastmod>2024-12-20</lastmod>
-    </url>
-    <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/intro/Introduction/</loc>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/intro/Introduction/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
 </urlset>
