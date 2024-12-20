@@ -23,7 +23,7 @@ edit_uri: ""
 # И её параметрах
 theme:
   name: material
-  language: ru
+  language: en
   palette:
     scheme: default
     primary: white
