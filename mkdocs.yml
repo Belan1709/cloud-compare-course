@@ -35,7 +35,7 @@ theme:
 
 # Структура навигации генерируемого сайта.
 nav:
-  - Introduction: intro/Introduction.md
+  - Introduction: index.md
   - Lessons:
     - Lesson 1: ex1/Lesson1.md
     - Lesson 2: ex2/Basic operations.md

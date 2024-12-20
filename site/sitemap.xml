@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://belan1709.github.io/cloud-compare-course/site/</loc>
+         <lastmod>2024-12-20</lastmod>
+    </url>
+    <url>
          <loc>https://belan1709.github.io/cloud-compare-course/site/about/License%20Agreement/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
@@ -26,10 +30,6 @@
     </url>
     <url>
          <loc>https://belan1709.github.io/cloud-compare-course/site/ex5/Practical%20Applications/</loc>
-         <lastmod>2024-12-20</lastmod>
-    </url>
-    <url>
-         <loc>https://belan1709.github.io/cloud-compare-course/site/intro/Introduction/</loc>
          <lastmod>2024-12-20</lastmod>
     </url>
 </urlset>
