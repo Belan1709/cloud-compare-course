@@ -11,7 +11,7 @@ This course is tailored for individuals and professionals who work with 3D point
 - Archaeologists and Cultural Heritage Experts: Analyze heritage sites and artifacts using high-fidelity 3D models.  
 - Scientists: Geologists, geographers, ecologists, and other researchers seeking to extract meaningful insights from spatial data.  
 - Anyone Else: Whether you're a student, researcher, or tech enthusiast, if you're working with point clouds and meshes, this course is for you!  
-________________________________________
+---
 ## Course Structure
 This course is divided into five engaging and progressively advanced lessons:
 1. Introduction to CloudCompare and 3D Point Clouds.
@@ -29,11 +29,11 @@ This course is divided into five engaging and progressively advanced lessons:
 5. Practical Applications.  
 	Real-world workflows across various industries.  
 	Tips for achieving accurate results and optimizing performance.  
-________________________________________
+---
 ## Learning Outcomes
-By the end of this course, you will:
+By the end of this course, you will:  
 - Gain a solid understanding of 3D point cloud data and how to work with it in CloudCompare.  
 - Perform advanced processing and analysis tasks to extract valuable insights.  
 - Apply your skills to real-world projects, improving accuracy and efficiency.  
-Let’s embark on this journey together to master CloudCompare and transform the way you work with 3D datasets!
+[Let’s embark](ex1/Lesson1.md) on this journey together to master CloudCompare and transform the way you work with 3D datasets!
 
